@@ -1,0 +1,24 @@
+{
+  "name": "parcial_1-bocutti_maria_florencia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js --ignore *.json "
+  },
+  "keywords": [],
+  "author": "Bocutti Maria Florencia <maria.bocutti@davinci.edu.ar>",
+  "license": "ISC",
+  "description": "Este es el primer examen de la materia Aplicaciones Hibridas",
+  "repository": {
+    "type": "git",
+    "url": "url al proyecto github.com"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongodb": "6.9",
+    "nodemon": "^3.1.7"
+  }
+}

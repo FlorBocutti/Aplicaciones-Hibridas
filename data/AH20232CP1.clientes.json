@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "66fc7f7c38a70b4e9bed2f23"
+  },
+  "nombre": "Estefania Rodriguez",
+  "foto": "./estefania.jpg",
+  "descripcion": "Mi nombre es Estefania, disfruto mucho de la comida argentina.",
+  "recetas": [
+    "66f9dfda38a70b4e9bed2f15",
+    "66f9dfda38a70b4e9bed2f16",
+    "66f9dfda38a70b4e9bed2f17"
+  ],
+  "id": 1
+},
+{
+  "_id": {
+    "$oid": "66fc7f7c38a70b4e9bed2f24"
+  },
+  "id": 2,
+  "nombre": "Francois Lambert",
+  "foto": "./francois.jpg",
+  "descripcion": "Soy Francois, un apasionado por la cocina francesa.",
+  "recetas": [
+    "66f9dfda38a70b4e9bed2f18",
+    "66f9dfda38a70b4e9bed2f19",
+    "66f9dfda38a70b4e9bed2f1a"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66fc7f7c38a70b4e9bed2f25"
+  },
+  "id": 3,
+  "nombre": "Mónica López",
+  "foto": "monica.jpg",
+  "descripcion": "Mi nombre es Mónica, hace más de 10 años que hago recetas peruanas.",
+  "recetas": [
+    "66f9dfda38a70b4e9bed2f1b",
+    "66f9dfda38a70b4e9bed2f1c",
+    "66f9dfda38a70b4e9bed2f1d"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66fc7f7c38a70b4e9bed2f26"
+  },
+  "id": 4,
+  "nombre": "Pablo Peréz",
+  "foto": "pablo.jpg",
+  "descripcion": "Soy Pablo, me encuentro en México cocinando las mejores recetas de aquí.",
+  "recetas": [
+    "66f9dfda38a70b4e9bed2f1e",
+    "66f9dfda38a70b4e9bed2f1f",
+    "66f9dfda38a70b4e9bed2f20"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66fc7f7c38a70b4e9bed2f27"
+  },
+  "id": 5,
+  "nombre": "Brenda Hainz",
+  "foto": "brenda.jpg",
+  "descripcion": "Soy Brenda, descendiente de familia china, cocinar recetas chinas me hace sentir más cerca de mi cultura",
+  "recetas": [
+    "66f9dfda38a70b4e9bed2f12",
+    "66f9dfda38a70b4e9bed2f13",
+    "66f9dfda38a70b4e9bed2f14"
+  ]
+}]
